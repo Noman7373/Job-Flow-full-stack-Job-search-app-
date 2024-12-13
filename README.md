@@ -29,7 +29,7 @@ JobFlow is a full-stack job portal application that allows users to search for j
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/Noman7373/Job-Flow-full-stack-Job-search-app.git
+git clone gh repo clone Noman7373/Job-Flow-full-stack-Job-search-app-
 2. Install dependencies:
 Backend: Navigate to the backend directory and install dependencies:
 
@@ -52,7 +52,7 @@ Backend:
 bash
 Copy code
 cd backend
-npm start
+npm run dev
 The backend will run on http://localhost:8000 (default).
 
 Frontend:
@@ -60,7 +60,7 @@ Frontend:
 bash
 Copy code
 cd frontend
-npm start
+npm run dev
 The frontend will run on http://localhost:5173 (default).
 
 5. Access the app:
